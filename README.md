@@ -4,8 +4,6 @@
 <a href="https://twitter.com/andreuorensanz" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/andreuorensanz" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-![Andreu's github stats](https://github-readme-stats.vercel.app/api?username=andyfratello&show_icons=true&theme=dracula&hide=contribs&count_private=true)
-
 ![visitors](https://pageview.vercel.app/?github_user=andyfratello)
 
 <!--
